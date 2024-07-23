@@ -1,0 +1,6 @@
+{
+    "diffEditor.useInlineViewWhenSpaceIsLimited": true,
+    "diffEditor.wordWrap": "inherit",
+    "editor.suggest.showInterfaces": true,
+    "cmake.configureOnOpen": false
+}
